@@ -1,0 +1,116 @@
+/* the styles for the elements */
+	body {
+	    font-family: Arial, Helvetica, sans-serif;
+	    font-size: 100%;
+	    width: 600px;
+	    margin-left: auto;
+	    margin-right: auto;
+	    border: 3px  solid  #931420;
+	    padding: 2em;
+	    background-color: #fffded;
+	}
+	header{
+	    border-bottom:solid 3px #931420;
+	    padding-top: 1.5em;
+	    padding-bottom: 2em;
+	    background-image: -webkit-linear-gradient(30deg, #f6bb73 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #f6bb73 100%);
+	    background-image: linear-gradient(30deg, #f6bb73 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #f6bb73 100%);
+	
+
+	}
+	
+
+	header h2 {
+	    font-size: 170%;
+	    color: #800000
+	
+
+	
+
+	}
+	
+
+	header h3 {
+	    font-size: 130%;
+	    font-style: italic;
+	    text-align: left;
+	
+
+	
+
+	}
+	
+
+	main h1 {
+	    font-size: 150%;
+	    color: #800000
+	    padding-bottom: 1em;
+	    border-top: 3px solid maroon;
+	    border-bottom: 3px solid maroon;
+	    margin-bottom: 0em;
+	    border-right: 3px solid maroon;
+	    border-left:3px solid maroon;
+	    border-radius: 8px;
+	    box-shadow: 4px 4px 0 0 ;
+	    background: white;
+	    padding-top: .3em;
+	    padding-bottom: .3em
+	
+
+	}
+	html{
+	    background: white;
+	}
+	
+
+	main h2 {
+	    font-size: 130%;
+	    color: #800000
+	}
+	
+
+	main h3 {
+	    font-size: 105%;
+	}
+	
+
+	a:hover, a:focus {
+	    font-style: italic;
+	}
+	
+
+	footer p {
+	    text-align: center;
+	    padding-top: 1em;
+	    padding-bottom: 1em;
+	
+
+	}
+	footer{
+	    text-align: center;
+	    font-color: white;
+	    border-bottom:solid 3px #931420 ;  
+	    border-top:solid 3px #931420 ;
+	    background: #931420 ;
+	
+
+	        
+	}
+	
+
+	/* the styles for the header */
+	header img {
+	    float: left;
+	}
+	
+
+	/* the styles for the section */
+	main {
+	    clear: left;
+	}
+	
+
+	/* the styles for the footer */
+	.shadow {
+	    text-shadow: 2px 3px 5px purple;
+	}
